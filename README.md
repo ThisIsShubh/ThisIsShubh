@@ -1,6 +1,6 @@
 <!-- Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=230&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=FFFFFF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=230&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=FFFFFF&animation=twinkling" width="100%" />
 </p>
 
 <h2 align="center"><b>UX Designer • Developer • Storysmith</b></h2>
